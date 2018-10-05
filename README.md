@@ -1,4 +1,4 @@
-# FantaZienDa-manifesto
+# FantaZienDa-labs
 
 ...
 
