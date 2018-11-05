@@ -1,34 +1,32 @@
 "Back to Basics of Biz" Manifesto
 =================================
-V. 1.0.0
+V. 1.0.1
 
-Updated: 20181104
+Updated: 20181105
 
 ---------------------------------
 
 
-1. I MERCATI SONO OVUNQUE.
+1. I mercati sono ovunque.
 
-2. LE DINAMICHE DI MERCATO SONO DINAMICHE MENTALI, DI TOTALE RESPONSABILITA' DEGLI ATTORI SOCIALI.
+2. Le dinamiche di mercato sono dinamiche mentali, di totale responsabilità degli attori sociali.
 
-3. ATTRAVERSO I MERCATI LE INTENZIONI E LE AZIONI UMANE CONTRIBUISCONO A STRUTTURARE L'AMBIENTE NATURALE E SOCIALE.
+3. Attraverso i mercati le intenzioni e le azioni umane contribuiscono a strutturare l'ambiente naturale e sociale.
 
-4. OGNI INDIVIDUO ACCEDE ALLE RISORSE NECESSARIE IN BASE ALLA SUA MISSIONE DI MERCATO, NEL RISPETTO DEI SUOI VINCOLI, IN EQUILIBRIO ED ARMONIA.
+4. Ogni individuo accede alle risorse necessarie in base alla sua missione di mercato, nel rispetto dei suoi vincoli, in equilibrio e armonia.
 
-5. I MERCATI SI REGGONO SULLE INTERAZIONI TRA LE PERSONE CHE, CON STRATEGIE COOPERANTI E FINALITA' COERENTI, PRESIDIANO L'ALLOCAZIONE DELLE RISORSE E LA LORO TRASFORMAZIONE.
+5. I mercati si reggono sulle interazioni tra le persone che, con strategie cooperanti e finalità coerenti, presidiano l'allocazione delle risorse e la loro trasformazione.
 
-6. LA TECNOLOGIA DEI MERCATI AGEVOLA IL CAMBIAMENTO E LA CONTINUA GENERAZIONE DI OPPORTUNITA', MEDIANTE METODOLOGIE DI EFFICACIA, EFFICIENZA E FLESSIBILITA'.
+6. La tecnologia dei mercati agevola il cambiamento e la continua generazione di opportunità, mediante metodologie di efficacia, efficienza e flessibilità.
 
-7. I MERCATI ORGANIZZANO IN AZIENDE L'AZIONE UMANA MEDIANTE COMPLESSI MECCANISMI CIBERNETICI SECONDO I PRINCIPI DI MISSIONE, VISIONE E PROGETTUALITA'.
+7. I mercati organizzano in aziende l'azione umana mediante complessi meccanismi cibernetici secondo i principi di missione, visione e progettualità.
 
-8. LE AZIENDE SONO OVUNQUE E SI MANIFESTANO SUL PIANO ASTRATTO MENTALE COME ORGANIZZAZIONI E SU QUELLO CONCRETO MATERIALE COME STRUTTURE INTERCONNESSE.
+8. Le aziende sono ovunque e si manifestano sul piano astratto mentale come organizzazioni e sul piano concreto materiale come strutture interconnesse.
 
-9. MERCATI E AZIENDE SI AUTO-ORGANIZZANO IN UN'ARCHITETTURA RICORSIVA, REALIZZANDO UN SISTEMA TECNICO-ECONOMICO VIVENTE E GLOBALE.
+9. Mercati e aziende si auto-organizzano in un'architettura ricorsiva, realizzando un sistema tecnico-economico vivente e globale.
 
-10. AZIENDE E MERCATI INTERVENGONO IN OGNI MANIFESTAZIONE UMANA, SIA COME STRUMENTO DI REGOLAZIONE SOCIO-AMBIENTALE SIA COME MEZZO DI REALIZZAZIONE FISICA, MENTALE E SPIRITUALE.
+10. Aziende e mercati intervengono in ogni manifestazione umana, sia come strumento di regolazione socio-ambientale sia come mezzo di realizzazione fisica, mentale e spirituale.
 
-11. LE PERFORMANCE GLOBALI DI AZIENDE E MERCATI, BASATE SUL LAVORO UMANO, SONO SEMPRE ECCELLENTI ED É TUTTO CIO' DI CUI POSSIAMO FIDARCI. QUESTA VERITA' DIPENDE ESCLUSIVAMENTE DAGLI ATTORI SOCIALI.
+11. Le performance globali di aziende e mercati, basate sul lavoro umano, sono sempre eccellenti ed é tutto ciò di cui possiamo fidarci. Questa verità dipende esclusivamente dagli attori sociali.
 
-12. IL COMPLESSO SISTEMA DI AZIENDE, MERCATI, E LAVORO UMANO COSTITUISCE UN GRANDIOSO PATRIMONIO DELL'UMANITA', AGILE, ELEGANTE E DI LIBERO ACCESSO PER OGNI PERSONA, NESSUNO ESCLUSO.
-
-...
+12. Il complesso sistema di aziende, mercati, e lavoro umano costituisce un grandioso patrimonio dell’Umanità, agile, elegante e di libero accesso per ogni persona, nessuno escluso.
