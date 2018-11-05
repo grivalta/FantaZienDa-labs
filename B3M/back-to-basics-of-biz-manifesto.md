@@ -21,7 +21,7 @@ Updated: 20181105
 
 7. I mercati organizzano in aziende l'azione umana mediante complessi meccanismi cibernetici secondo i principi di missione, visione e progettualità.
 
-8. Le aziende sono ovunque e si manifestano sul piano astratto mentale come organizzazioni e sul piano concreto materiale come strutture interconnesse.
+8. Le aziende sono ovunque e si manifestano sul piano astratto mentale come organizzazioni di processi e sul piano concreto materiale come strutture interconnesse.
 
 9. Mercati e aziende si auto-organizzano in un'architettura ricorsiva, realizzando un sistema tecnico-economico vivente e globale.
 
