@@ -2,7 +2,7 @@
 
 ...
 
-["Back to Basics of Biz" Manifesto](https://github.com/grivalta/Management-labs/blob/master/B3M/back-to-basics-of-biz-manifesto.md)
+["Back to Basics of Biz" Manifesto](https://github.com/grivalta/b3m)
 
 ...
 
